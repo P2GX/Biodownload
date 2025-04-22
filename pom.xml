@@ -4,7 +4,7 @@
 
     <groupId>org.monarchinitiative.biodownload</groupId>
     <artifactId>biodownload</artifactId>
-    <version>1.1.2-SNAPSHOT</version>
+    <version>1.1.2</version>
     <name>BioDownload</name>
     <description>Convenience for downloading resources for various bioinformatic analyses.</description>
     <url>https://github.com/P2GX/biodownload</url>
@@ -43,7 +43,7 @@
         <connection>scm:git:git@github.com:P2GX/biodownload.git</connection>
         <developerConnection>scm:git:git@github.com:P2GX/biodownload.git</developerConnection>
         <url>scm:git:git@github.com:P2GX/biodownload.git</url>
-        <tag>v${project.version}</tag>
+        <tag>v1.1.2</tag>
     </scm>
 
     <distributionManagement>
